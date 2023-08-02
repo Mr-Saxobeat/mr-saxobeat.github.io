@@ -21,7 +21,7 @@
 title: Weiglas Ribeiro
 email: weiglasribeiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Um blog de teste para começar meus blog.
+  Um blog sobre pensamentos, programação, contos, gostos e ideias.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
