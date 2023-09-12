@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Me livrando das multas da biblioteca usando python"
-date: 2023-09-12 03:34:00 -0300
+date: 2023-09-12 00:34:00 -0300
 ---
 Eu confesso. Tem coisas que esqueço muito facilmente e é por isso que, se eu não configurar alguns lembretes no calendário, as datas passam voando por mim.
 
@@ -177,9 +177,13 @@ Aqui mostrei os passos principais do script de uma forma superficial. Ao final d
 Para a hospedagem do meu código, resolvi usar o Lambda AWS com um gatilho para todar todo dia às 00:10h, uma vez que as datas de renovação são sempre às 00:00h.
 Olhando nos logs, consigo verificar que está tudo rodando corretamente e eu não vou mais receber multas da biblioteca, hehe:
 
-![Logs do script rodando e renovando o livro de Cálculo](imgs/log-cloug-watch.png)
+![Logs do script rodando e renovando o livro de Cálculo](/assets/log-cloug-watch.png)
 
 
 ---------------------
 
-Bom, caso você queira olhar com mais detalhes o funcionamento do script, pode checar o repositório: https://github.com/Mr-Saxobeat/renew-my-borrowed-books
+Bom, caso você queira olhar com mais detalhes o funcionamento do script, pode checar o repositório: [https://github.com/Mr-Saxobeat/renew-my-borrowed-books](https://github.com/Mr-Saxobeat/renew-my-borrowed-books)
+
+Fiquei muito satisfeito com a solução simples que cheguei e mais ainda por funcionar tão bem! Faz mais ou menos uma semana que este código tem rodado diariamente e eu já nem sei as datas de renovação dos livros hehe.
+
+Caso você queira tirar alguma dúvida sobre o código pode entrar em cotato comigo por: weiglasribeiro@gmail.com
