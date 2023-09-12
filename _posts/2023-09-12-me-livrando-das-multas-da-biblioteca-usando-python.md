@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Me livrando das multas da biblioteca usando python"
-date: 2023-09-03 17:00:00 -0300
+date: 2023-09-12 03:34:00 -0300
 ---
 Eu confesso. Tem coisas que esqueço muito facilmente e é por isso que, se eu não configurar alguns lembretes no calendário, as datas passam voando por mim.
 
